@@ -1,11 +1,12 @@
 {
-  "description": "Google Python Class Day 1 Part 2:\r\nLists, Sorting, and Tuples.\r\nWith support materials and exercises:\r\nhttp://code.google.com/edu/languages/google-python-class",
+  "description": "Google Python Class Day 1 Part 2:\r\nLists, Sorting, and Tuples.\r\nWith support materials and exercises.",
   "recorded": "2010-03-01",
   "speakers": ["Nick Parlante"],
   "thumbnail_url": "https://i.ytimg.com/vi/EPYupizJYQI/hqdefault.jpg",
   "title": "Google Python Class Day 1 Part 2",
-
-
+  "duration": 3512,
+  "language": "eng",
+  "related_urls": ["https://developers.google.com/edu/python/introduction"],
   "videos": [
     {
       "type": "youtube",

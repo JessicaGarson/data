@@ -59,7 +59,9 @@ from tools.constants import JSON_FORMAT_KWARGS
 from tools.utils import slugify
 
 
-ENV_VAR_API_KEY = 'GOOGLE_API_KEY'
+ENV_VAR_API_KEY = 'GOOGLE_API_KEY' 
+
+#'AIzaSyDsDlfD_9GzCkHaCyHVslU4x-SxswlQLyY'
 
 YOUTUBE_VIDEO_TEMPLATE = 'https://www.youtube.com/watch?v={}'.format
 YOUTUBE_THUMBNAIL_URL_TEMPLATE = 'https://i.ytimg.com/vi/{}/maxresdefault.jpg'.format
